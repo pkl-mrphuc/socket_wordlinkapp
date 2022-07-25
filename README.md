@@ -12,7 +12,7 @@
 4. join game
 5. play game
 6. send answer
-![image](https://user-images.githubusercontent.com/36725688/180801766-cc9d7cb0-a067-4bf3-927f-30f26839f766.png)
+# Images/home.png
 
 
 
